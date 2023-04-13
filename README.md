@@ -2,7 +2,7 @@
 
 Este repositório contém uma coleção de scripts em diversas linguagens de programação que foram criados com o auxílio de inteligência artificial para auxiliar em diferentes tarefas. Cada pasta representa uma tarefa específica e contém scripts escritos em diferentes linguagens de programação.
 
-Fique à vontade para explorar a pasta e contribuir com novos scripts. Se você tiver alguma ideia de tarefa que possa ser automatizada, crie uma nova pasta e contribua com seus scripts.
+Fique à vontade para explorar as pastas e contribuir com novos scripts. Se você tiver alguma ideia de tarefa que possa ser automatizada, crie uma nova pasta e contribua com seus scripts.
 
 ## Contribuindo
 
