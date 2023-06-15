@@ -18,4 +18,4 @@ Se você tiver algum script adicional que possa ser útil para formatação de d
 
 ## Licença
 
-Este projeto está licenciado sob a [Licença MIT](/main/LICENSE.md), localizada na raiz do repositório.
+Este projeto está licenciado sob a [Licença MIT](https://github.com/calilkhalil/AI-ScriptsHub/blob/main/LICENSE.md), localizada na raiz do repositório.
