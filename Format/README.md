@@ -18,4 +18,4 @@ Se você tiver algum script adicional que possa ser útil para formatação de d
 
 ## Licença
 
-Este projeto está licenciado sob a [Licença MIT](/blob/main/LICENSE.md), localizada na raiz do repositório.
+Este projeto está licenciado sob a [Licença MIT](LICENSE.md), localizada na raiz do repositório.
